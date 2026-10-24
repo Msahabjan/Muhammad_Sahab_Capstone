@@ -1,5 +1,9 @@
 # AI-Powered Credit Risk & Loan Eligibility System
 
+
+🔗 **Live Interactive App:** [Click Here to Open Live Streamlit App](https://muhammadsahabcapstone-jhef9dmgpzeqdhpjwvsxrv.streamlit.app/)
+
+---
 ## Project Overview
 This project provides an automated machine learning platform designed for loan underwriting officers to assess applicant default risk using financial demographic indicators and external credit scores.
 
